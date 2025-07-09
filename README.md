@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [News Scraping and summarization tool](https://github.com/Saumya1404/News-Scraper)
 
-- 🌱 I’m currently learning **LangGraph, Multimodal AI, Computer Vision**
-
 - 🔭 I’m currently working on [Manga recommendation system](https://github.com/Saumya1404/Manga-Recommendation-System)
+
+- 🌱 I’m currently learning **LangGraph, Multimodal AI, Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saumya1404](https://github.com/Saumya1404)
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="www.linkedin.com/in/saumya-rishikesh-286aa1178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya rishikesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
