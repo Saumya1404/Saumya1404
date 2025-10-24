@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumya Rishikesh</h1>
 <h3 align="center">A passionate Deep Learning & AI Developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [News Scraping and summarization tool](https://github.com/Saumya1404/News-Scraper)
+- 🔭 I’m currently working on [Agentic Math Prof](https://github.com/Saumya1404/Agentic-Math-Prof)
 
 - 🔭 I’m currently working on [Manga recommendation system](https://github.com/Saumya1404/Manga-Recommendation-System)
 
