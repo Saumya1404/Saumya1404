@@ -3,7 +3,7 @@
 
 <!-- TODO: replace https://portfolio-link-here.example with the deployed portfolio URL (2 places: bullet below + Connect section) -->
 
-- 🌐 Check out my portfolio: **[portfolio-link-here.example](https://portfolio-link-here.example)**
+- 🌐 Check out my portfolio: **[Live Portfolio](https://portfolio-five-swart-53.vercel.app/)**
 
 - 🔭 I'm currently building **[Agentic Math Prof](https://github.com/Saumya1404/Agentic-Math-Prof)** — a LangGraph multi-agent math tutor with RAG, DSPy and human-in-the-loop feedback
 
@@ -28,8 +28,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saumya-rishikesh-286aa1178" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya rishikesh" height="30" width="40" /></a>
-&nbsp;<a href="https://portfolio-link-here.example" target="_blank" rel="noreferrer">🌐 Portfolio</a>
+<a href="https://www.linkedin.com/in/saumya-rishikesh-286aa1178" target="_blank" rel="noreferrer">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saumya Rishikesh" height="30" width="40" />
+</a>
+&nbsp;
+<a href="https://portfolio-five-swart-53.vercel.app/" target="_blank" rel="noreferrer">🌐 Live Portfolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
